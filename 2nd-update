@@ -1,0 +1,9 @@
+# hello-world-
+First 
+my name is luke !
+//hello 
+
+public static main void (String args[]) {
+
+system.out.println("hi")
+}
